@@ -7,9 +7,8 @@ Repositório a fim de testar candidatos para vaga de Dev Back-end na Empresa htt
 
   # Instruções a respeito do repositório
   
-    1 - Faça um Fork deste repositório
-    2 - Implemente um layout fiel, segue link para inspiração: https://dribbble.com/
-    3 - Ao terminar, atualize o README.md no seu repositório com as instruções de instalação e como executar o projeto.
+    1 - Faça um Fork deste repositóri;
+    2 - Ao terminar, atualize o README.md no seu repositório com as instruções de instalação e como executar o projeto;
     
     
   # Stack
