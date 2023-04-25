@@ -15,16 +15,20 @@ Repositório a fim de testar candidatos para vaga de Dev Back-end na Empresa htt
     - C#
     
   # Desafio
-  
-  
-  Você deve fazer uma API utilizando a linguagem C# e framework .net 6.0.
-                  Essa api deve conter um CRUD de Usuarios , endereços , telefones e ocupação. Fique livre pra codar como achar melhor.
+  - Você deve fazer uma API utilizando a linguagem C# e framework .net 6.0.
+    - Essa api deve conter um CRUD de:
+      - Usuarios
+      - Endereços
+      - Telefones
+      - Ocupação
+      
+      Utilize boas praticas de programação.
 
  
-Principais requisitos:
- 1 - Uso de Migrations;
- 2 - Uso de MappingProfiles (DTO para response ou para request);
- 3 - Uso de ContextAPI
+# Principais requisitos:
+    1 - Uso de Migrations;
+    2 - Uso de MappingProfiles (DTO para response ou para request);
+    3 - Uso de ContextAPI
 
  
 
