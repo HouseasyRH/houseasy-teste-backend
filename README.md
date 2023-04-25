@@ -1,4 +1,3 @@
-# houseasy-teste-backend
 # Teste Vaga Dev Back-end na Houseasy
 Repositório a fim de testar candidatos para vaga de Dev Back-end na Empresa https://houseasy.net/
 
