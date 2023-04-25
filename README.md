@@ -17,7 +17,7 @@ Repositório a fim de testar candidatos para vaga de Dev Back-end na Empresa htt
   # Desafio
   - Você deve fazer uma API utilizando a linguagem C# e framework .net 6.0.
     - Essa api deve conter um CRUD de:
-      - Usuarios
+      - Usuários
       - Endereços
       - Telefones
       - Ocupação
